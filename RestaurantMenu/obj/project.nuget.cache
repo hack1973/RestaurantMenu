@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd7D9tsnkut60MylmVcVmEN71h6jbtEDJoL7obzarQSNLWMlJhxcT8t8OPrXLwDc2hRKrzhWkaKBBMdp8EQQAA==",
+  "dgSpecHash": "Gju2uCEFsud7jdrY8GF94jGKIi5N7ylsLkQPcps+BWb2MjbYoCTOlEx5XtwLhoU+5iuLb588ZhtubCf93tH8iQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\hack1973\\Documents\\LC-101\\csharp\\Studios\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hack1973\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hack1973\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hack1973\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hack1973\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
